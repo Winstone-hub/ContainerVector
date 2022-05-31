@@ -1,4 +1,4 @@
-// ** Vector v0.2
+// ** Vector v0.3
 #include <iostream>
 
 using namespace std;
